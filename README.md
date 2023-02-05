@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on an interactive history of the NBA 
+- 🌱 I’m currently learning full stack web development
+- 😄 Pronouns: He/Him
+
 <!--
 **jjspoelstra/jjspoelstra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
