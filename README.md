@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 🔭 I’m currently working on an Interactive History of the NBA
+
 🌱 I’m currently learning C#
+
 👯 I’m looking to collaborate on projects that benefit underprivileged communities
+
 📫 How to reach me jjspoels@gmail.com
+
 😄 Pronouns He/Him
 
 <h3 align="left">Languages and Tools:</h3>
