@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋
 
 🔭 I’m currently working on an Interactive History of the NBA
 
