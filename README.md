@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on an Interactive History of the NBA
 
-🌱 I’m currently learning Material UI
+🌱 I’m currently learning Material UI for React
 
 👯 I’m looking to collaborate on projects that benefit underprivileged communities
 
