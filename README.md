@@ -1,8 +1,8 @@
 ### Hi! 👋
 
-🔭 I’m currently working on an Interactive History of the NBA
+🔭 I’m currently working on a booking platform that empowers local musicians.
 
-🌱 I’m currently learning Next.js
+🌱 I’m currently learning how to utilize fullCalendar
 
 👯 I’m looking to collaborate on projects that benefit underprivileged communities
 
